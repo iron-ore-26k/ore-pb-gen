@@ -1,4 +1,4 @@
-module ore-pb-gen
+module github.com/iron-ore-26k/ore-pb-gen
 
 go 1.17
 
